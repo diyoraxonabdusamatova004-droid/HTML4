@@ -1,45 +1,44 @@
-body{
-    background: rgb(29, 29, 235);
-}
-.h1{
-    text-align: center;
-    color: white;
-}
-img{
-    display: block;
-    margin: 0 auto;
-}
-.jadval{
-    background: rgb(18, 18, 126);
-    color: white;
+table {
     width: 100%;
+}
+
+th {
+    height: 50px;
+    color: rgb(6, 4, 4);
+    background: #e6caca;
+    border: solid 0,5px white;
+}
+
+.green {
+    background: rgb(60, 227, 60);
+}
+
+td {
+    height: 100px;
     text-align: center;
-    border: 2px solid;
+    color: rgb(247, 247, 252);
+    background: #3d21ef;
+    border: px solid white;
 }
-th{
-    background: orange;
-    padding: 5px;
+.pink{
+    background: #ef23bc;
 }
-td{
-    border:  solid 2px;
-    padding: 5px;
+.pink1{
+    background: #a00791;
 }
-.img1{
-    width: 400px;
-    color: white;
-    background: rgb(35, 35, 124);
-    text-align: center;
-    margin: 10px auto;
-    border-radius: 10px;
+.greenn{
+    background: #148d8dd7;
 }
-.img2{
-     width: 400px;
-    color: white;
-    background: rgb(35, 35, 124);
-    text-align: center;
-    margin: 10px auto;
-    border-radius: 10px;
+.orange{
+    background: rgb(202, 154, 33);
 }
-h3{
-    color: orange;
+.blue{
+    background: #0f5ee6;
 }
+.green1{
+       background: rgb(60, 227, 60);
+}
+.pink2{
+    background: #a00791;
+}
+
